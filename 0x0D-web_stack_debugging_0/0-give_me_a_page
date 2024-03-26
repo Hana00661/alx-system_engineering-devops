@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a script to restart apache 2 in our docker container and to return
+
+service apache2 restart
